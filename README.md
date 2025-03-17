@@ -35,6 +35,26 @@ Here are some popular alternatives to Git:
 To install Git on Mac OS, you can use the following steps:
 
 1. Open the Terminal application.
-2. Run the following command to install Homebrew:<br>
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-3. Run the following command to install Git:<br> brew install git
+2. Run the following command to install Homebrew:<br>**/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"**
+3. Run the following command to install Git:<br>**brew install git**
+
+## 3.2 : Windows Installation
+
+To install Git on Windows, you can use the following steps:
+
+1. Download the Git installer from the Git website (https://git-scm.com/downloads/win).
+2. Run the installer and follow the instructions to complete the installation.
+3. Open the Git Bash application to start using Git.
+
+## 3.3 : Linux Installation
+
+To install Git on Linux, you can use the following steps:
+
+1. Open the Terminal application.
+2. Run the following command to install Git:
+
+**sudo apt-get update**<br>
+**sudo apt-add-repository ppa:git-core/ppa**<br>
+**sudo apt-get update**<br>
+**sudo apt-get install git**
+
