@@ -88,3 +88,27 @@ To install Git on Linux, you can use the following steps:
 25. **git blame :** Show what revision and author last modified each line of a file <br>
 26. **git clean :** Remove untracked files from the working tree <br>
 
+## 4.2 : Git Help
+
+1. **git help**
+
+## 4.3 : Adding Configuration (Git Config)
+
+git config --global user.name "John Doe" <br>
+git config --global user.email "john.doe@example.com"
+
+### More Git Config Commands
+
+1. **git config --global user.name "John Doe" :** Set the name for all repositories on your system <br>
+2. **git config --global user.email "john.doe@example.com" :** Set the email for all repositories on your system <br>
+3. **git config --global core.editor "code --wait" :** Set the default text editor for Git to Visual Studio Code <br>
+4. **git config --global merge.tool "meld" :** Set the default merge tool to Meld <br>
+5. **git config --global diff.tool "meld" :** Set the default diff tool to Meld <br>
+6. **git config --global alias.st status :** Create a shortcut alias for the **git status** command <br>
+7. **git config --global alias.co checkout :** Create a shortcut alias for the **git checkout** command <br>
+8. **git config --global alias.ci commit :** Create a shortcut alias for the **git commit** command <br>
+9. **git config --global alias.br branch :** Create a shortcut alias for the **git branch** command <br>
+10. **git config --global color.ui auto	:** Enable automatic coloring of Git command output <br>
+11. **git config --global core.autocrlf true :** Set automatic conversion of line endings (useful for Windows users) <br>
+12. **git config --global core.safecrlf warn :** Warn if a file has mixed line endings <br>
+13. **git config --global push.default simple :** Set the default behavior for **git push** to **simple** <br>
