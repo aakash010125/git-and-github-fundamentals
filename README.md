@@ -51,8 +51,7 @@ To install Git on Windows, you can use the following steps:
 To install Git on Linux, you can use the following steps:
 
 1. Open the Terminal application.
-2. Run the following command to install Git:
-
+2. Run the following command to install Git:<br>
 **sudo apt-get update**<br>
 **sudo apt-add-repository ppa:git-core/ppa**<br>
 **sudo apt-get update**<br>
