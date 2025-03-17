@@ -1,11 +1,13 @@
 # 02. Getting Started With Git :
 
 ## 2.1 : What Is Git ?
+
 Git is a distributed version control system that is used for tracking changes in source code during software development. It was created by Linus Torvalds in 2005 and is now maintained by the Linux Foundation.
 
 Git is designed to handle large projects efficiently and is widely used in the software development industry.
 
 ## 2.1 : Why Use Git ?
+
 Git is a powerful tool that helps developers manage their codebase efficiently. It allows developers to track changes, collaborate with others, and manage large projects. Git is also used for version control, which means that developers can revert to previous versions of their code if needed.
 
 Git is a distributed version control system, which means that each developer has a copy of the entire codebase. This allows developers to work on the same codebase without having to worry about conflicts.
@@ -26,3 +28,13 @@ Here are some popular alternatives to Git:
 4. **Bazaar** (https://bazaar.canonical.com/) - A distributed version control system that is user-friendly and flexible.
 5. **CVS** (https://www.nongnu.org/cvs/) - An older version control system that is still used in some legacy projects.
 
+# 03. Git Installation :
+
+## 3.1 : Mac Os Installation
+
+To install Git on Mac OS, you can use the following steps:
+
+1. Open the Terminal application.
+2. Run the following command to install Homebrew:
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+3. Run the following command to install Git: brew install git
