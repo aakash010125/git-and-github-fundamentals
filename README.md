@@ -35,8 +35,8 @@ Here are some popular alternatives to Git:
 To install Git on Mac OS, you can use the following steps:
 
 1. Open the Terminal application.
-2. Run the following command to install Homebrew:<br>**/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"**
-3. Run the following command to install Git:<br>**brew install git**
+2. Run the following command to install Homebrew: <br> **/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"**
+3. Run the following command to install Git: <br> **brew install git**
 
 ## 3.2 : Windows Installation
 
@@ -51,9 +51,40 @@ To install Git on Windows, you can use the following steps:
 To install Git on Linux, you can use the following steps:
 
 1. Open the Terminal application.
-2. Run the following command to install Git:<br>
-**sudo apt-get update**<br>
-**sudo apt-add-repository ppa:git-core/ppa**<br>
-**sudo apt-get update**<br>
+2. Run the following command to install Git: <br>
+**sudo apt-get update** <br>
+**sudo apt-add-repository ppa:git-core/ppa** <br>
+**sudo apt-get update** <br>
 **sudo apt-get install git**
+
+# 04. Git Commands :
+
+## 4.1 : List of Git Commands
+
+1. **git init :** Initialize a new Git repository <br>
+2. **git clone :** Clone an existing repository <br>
+3. **git status :** Show the working tree status <br>
+4. **git add :** Add file contents to the index <br>
+5. **git commit :** Record changes to the repository <br>
+6. **git push :** Update remote refs along with associated objects <br>
+7. **git pull :** Fetch from and integrate with another repository or a local branch <br>
+8. **git branch :** List, create, or delete branches <br>
+9. **git checkout :** Switch branches or restore working tree files <br>
+10. **git merge :**	Join two or more development histories together <br>
+11. **git log :** Show commit logs <br>
+12. **git diff :** Show changes between commits, commit and working tree, etc <br>
+13. **git reset :**	Reset current HEAD to the specified state <br>
+14. **git rm :** Remove files from the working tree and from the index <br>
+15. **git stash :**	Stash the changes in a dirty working directory away <br>
+16. **git tag :** Create, list, delete or verify a tag object signed with GPG <br>
+17. **git fetch :** Download objects and refs from another repository <br>
+18. **git remote :** Manage set of tracked repositories <br>
+19. **git rebase :** Reapply commits on top of another base tip <br>
+20. **git bisect :** Use binary search to find the commit that introduced a bug <br>
+21. **git grep :** Print lines matching a pattern <br>
+22. **git show :** Show various types of objects <br>
+23. **git archive :** Create an archive of files from a named tree <br>
+24. **git cherry-pick :** Apply the changes introduced by some existing commits <br>
+25. **git blame :** Show what revision and author last modified each line of a file <br>
+26. **git clean :** Remove untracked files from the working tree <br>
 
