@@ -112,3 +112,14 @@ git config --global user.email "john.doe@example.com"
 11. **git config --global core.autocrlf true :** Set automatic conversion of line endings (useful for Windows users) <br>
 12. **git config --global core.safecrlf warn :** Warn if a file has mixed line endings <br>
 13. **git config --global push.default simple :** Set the default behavior for **git push** to **simple** <br>
+
+# 05. Your First Git Repository :
+
+## 5.1 : What Is A Git Repository
+
+<img width="950" alt="Image" src="https://github.com/user-attachments/assets/8a4bb8f0-f962-4c01-be35-0fe462f0ed5e" />
+
+<img width="950" alt="Image" src="https://github.com/user-attachments/assets/842e9577-383c-45be-b608-61319db2b092" />
+
+<img width="950" alt="Image" src="https://github.com/user-attachments/assets/1062f7a2-f86e-4181-9352-0a96d3dc8c24" />
+
