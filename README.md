@@ -129,3 +129,27 @@ git config --global user.email "john.doe@example.com"
 
 <img width="925" alt="Image" src="https://github.com/user-attachments/assets/896c49ce-d0c5-464a-a645-5d0da2506d21" />
 
+## 5.3 : Create Working Directory With Git
+
+## 5.4 : Initialize Git Repository (Git Init)
+
+## 5.5 : Working With Global And Local Configuration
+
+## 5.6 : Hidden .Git Folder
+
+# 06. Tracking Changes :
+
+## 6.1 : Intro
+
+<img width="925" alt="Image" src="https://github.com/user-attachments/assets/0434e2b3-e743-4968-ba4b-fbd2c7d33f0c" />
+
+<img width="925" alt="Image" src="https://github.com/user-attachments/assets/e9145e6a-41be-4970-9e19-8783331e9843" />
+
+<img width="925" alt="Image" src="https://github.com/user-attachments/assets/b88b6196-da3d-4100-b5b6-51a2d406776d" />
+
+<img width="925" alt="Image" src="https://github.com/user-attachments/assets/403da006-513a-4089-b5bf-4b4a4a27c909" />
+
+<img width="925" alt="Image" src="https://github.com/user-attachments/assets/e5a84621-a8a8-47d9-995a-764d4a6be6c8" />
+
+<img width="925" alt="Image" src="https://github.com/user-attachments/assets/5795e411-7980-42d2-a94f-a6167a9af73c" />
+
