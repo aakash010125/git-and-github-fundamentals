@@ -153,3 +153,12 @@ git config --global user.email "john.doe@example.com"
 
 <img width="925" alt="Image" src="https://github.com/user-attachments/assets/5795e411-7980-42d2-a94f-a6167a9af73c" />
 
+# 09. Outro :
+
+## 9.2 : 12 Most Common Git Commands
+
+<img width="925" alt="Image" src="https://github.com/user-attachments/assets/81acc292-a1b3-4898-a3a8-30d5843c0c9c" />
+
+## 9.3 : 10 Most Common Git Commands
+
+<img width="925" alt="Image" src="https://github.com/user-attachments/assets/29d22cd1-09ee-4fdb-a3fd-78dcf573613f" />
