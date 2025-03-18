@@ -16,7 +16,7 @@ Git is also a distributed version control system, which means that each develope
 
 ## 2.2 / 2.3 : How Git Works
 
-<img width="750" alt="Image" src="https://github.com/user-attachments/assets/7a7ee0a1-33b1-47dd-aacd-a67cc9ec4092" />
+<img width="925" alt="Image" src="https://github.com/user-attachments/assets/7a7ee0a1-33b1-47dd-aacd-a67cc9ec4092" />
 
 ## 2.4 : Git Alternatives
 
@@ -117,9 +117,15 @@ git config --global user.email "john.doe@example.com"
 
 ## 5.1 : What Is A Git Repository
 
-<img width="950" alt="Image" src="https://github.com/user-attachments/assets/8a4bb8f0-f962-4c01-be35-0fe462f0ed5e" />
+<img width="925" alt="Image" src="https://github.com/user-attachments/assets/8a4bb8f0-f962-4c01-be35-0fe462f0ed5e" />
 
-<img width="950" alt="Image" src="https://github.com/user-attachments/assets/842e9577-383c-45be-b608-61319db2b092" />
+<img width="925" alt="Image" src="https://github.com/user-attachments/assets/842e9577-383c-45be-b608-61319db2b092" />
 
-<img width="950" alt="Image" src="https://github.com/user-attachments/assets/1062f7a2-f86e-4181-9352-0a96d3dc8c24" />
+<img width="925" alt="Image" src="https://github.com/user-attachments/assets/1062f7a2-f86e-4181-9352-0a96d3dc8c24" />
+
+## 5.2 : Working Directory And Git Init
+
+<img width="925" alt="Image" src="https://github.com/user-attachments/assets/0142c592-b13f-45fa-9fcd-c4855f8d3ffa" />
+
+<img width="925" alt="Image" src="https://github.com/user-attachments/assets/896c49ce-d0c5-464a-a645-5d0da2506d21" />
 
