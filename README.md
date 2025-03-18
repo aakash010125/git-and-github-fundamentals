@@ -162,3 +162,13 @@ git config --global user.email "john.doe@example.com"
 ## 9.3 : 10 Most Common Git Commands
 
 <img width="925" alt="Image" src="https://github.com/user-attachments/assets/29d22cd1-09ee-4fdb-a3fd-78dcf573613f" />
+
+## Additional Info :
+
+### Adding a new SSH key to your GitHub account :
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account?platform=mac
+
+### Git Guide :
+https://github.com/git-guides
+
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
